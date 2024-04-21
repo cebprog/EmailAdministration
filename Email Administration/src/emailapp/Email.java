@@ -9,7 +9,7 @@ public class Email {
 	private String Department;
 	private int MailboxCapacity=500;
 	private String AlternateEmail;
-	private String companySuffix = "aeycompany.com";
+	private String companySuffix = "company.com";
 	
 	//constructor to receive first name and last name
 	public Email(String FirstName, String LastName) {
